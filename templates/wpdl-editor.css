@@ -1,0 +1,9 @@
+body {
+	font-family: "Segoe UI", Helvetica, sans-serif;
+	margin: 20px;
+}
+
+p {
+	margin: 0 0 2px;
+	line-height: 1.7;
+}

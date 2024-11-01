@@ -1,0 +1,1171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-10 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: includes/class-wpdl-emails.php:256
+msgid "Username"
+msgstr ""
+
+#: includes/class-wpdl-emails.php:261
+#: includes/admin/settings/class-wpdl-settings-emails.php:274
+msgid "Email"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:51
+msgid "Please enter a subject"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:54
+msgid "Please select a department"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:57
+msgid "Please select a ticket type"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:60
+msgid "Please select a priority"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:63
+msgid "Please enter your issue description"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:75
+#, php-format
+msgid "Your support ticket was submitted successfully. Your ticket ID is %s"
+msgstr ""
+
+#: includes/class-wpdl-form-handler.php:78
+msgid "An error has occured. We cannot submit your request at this time."
+msgstr ""
+
+#: includes/class-wpdl-install.php:94
+msgctxt "User role"
+msgid "Operator"
+msgstr ""
+
+#: includes/class-wpdl-install.php:126
+msgctxt "Page slug"
+msgid "tickets"
+msgstr ""
+
+#: includes/class-wpdl-install.php:127
+msgctxt "Page title"
+msgid "My Tickets"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:48 includes/class-wpdl-post-types.php:50
+msgid "Departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:51
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:186
+#: templates/add-ticket.php:45 templates/my-tickets.php:27
+#: templates/ticket.php:33
+msgid "Department"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:52
+msgctxt "Admin menu name"
+msgid "Departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:53
+msgid "Search departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:54
+msgid "All departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:55
+msgid "Edit department"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:56
+msgid "Update department"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:57
+msgid "Add new department"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:58
+msgid "New department name"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:59
+msgid "Popular departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:60
+msgid "Separate departments with commas"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:61
+msgid "Add or remove departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:62
+msgid "Choose from the most used departments"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:63
+msgid "No departments found"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:88 templates/add-ticket.php:61
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:90
+msgid "Ticket Types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:91
+msgid "Ticket type"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:92
+msgctxt "Admin menu name"
+msgid "Ticket Types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:93
+msgid "Search ticket types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:94
+msgid "All ticket types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:95
+msgid "Edit ticket type"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:96
+msgid "Update ticket type"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:97
+msgid "Add new ticket type"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:98
+msgid "New ticket type name"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:99
+msgid "Popular ticket types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:100
+msgid "Separate ticket types with commas"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:101
+msgid "Add or remove ticket types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:102
+msgid "Choose from the most used ticket types"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:103
+msgid "No ticket types found"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:138
+msgid "Support Tickets"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:139
+#: includes/admin/class-wpdl-admin-meta-boxes.php:63
+msgid "Support Ticket"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:140
+msgctxt "Admin menu name"
+msgid "Tickets"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:141
+msgid "Add ticket"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:142
+msgid "Add new"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:143
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:144
+msgid "Edit ticket"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:145
+msgid "New ticket"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:146
+msgid "View ticket"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:147
+msgid "Search tickets"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:148
+msgid "No support tickets found"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:149
+msgid "No support tickets found in trash"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:150
+msgid "Parent ticket"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:151
+msgid "Filter support tickets"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:152
+msgid "Support tickets navigation"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:153
+msgid "Support tickets list"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:155
+msgid "This is where you can manage support tickets."
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:183
+msgctxt "New ticket status"
+msgid "New"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:188
+#, php-format
+msgid "New <span class=\"count\">(%s)</span>"
+msgid_plural "New <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wpdl-post-types.php:191
+msgctxt "Pending ticket status"
+msgid "Pending"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:196
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wpdl-post-types.php:199
+msgctxt "Resolved ticket status"
+msgid "Resolved"
+msgstr ""
+
+#: includes/class-wpdl-post-types.php:204
+#, php-format
+msgid "Resolved <span class=\"count\">(%s)</span>"
+msgid_plural "Resolved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wpdl-ticket.php:426 includes/class-wpdl-ticket.php:434
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:335
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/class-wpdl-ticket.php:448
+msgid "No department"
+msgstr ""
+
+#: includes/wpdl-core-functions.php:277
+msgid "&#8592; Back"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:110
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:97
+msgid "New"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:111
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:98
+msgid "Pending"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:112
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:99
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:236
+msgid "Resolved"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:133
+msgid "Very Low"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:134
+msgid "Low"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:135
+msgid "Normal"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:136
+msgid "High"
+msgstr ""
+
+#: includes/wpdl-ticket-functions.php:137
+msgid "Very High"
+msgstr ""
+
+#: includes/wpdl-user-functions.php:52
+msgid "you"
+msgstr ""
+
+#: includes/wpdl-wc-functions.php:28 templates/my-tickets.php:15
+#: templates/ticket.php:19 templates/ticket.php:20
+msgid "My Tickets"
+msgstr ""
+
+#: includes/wpdl-wc-functions.php:99
+#, php-format
+msgid "Spent %s"
+msgstr ""
+
+#: includes/wpdl-wc-functions.php:99
+#, php-format
+msgid "%s orders"
+msgstr ""
+
+#: includes/abstracts/abstract-wpdl-settings-api.php:645
+msgid "Select all"
+msgstr ""
+
+#: includes/abstracts/abstract-wpdl-settings-api.php:645
+msgid "Select none"
+msgstr ""
+
+#: includes/abstracts/class-wpdl-background-process.php:169
+#, php-format
+msgid "Every %d minutes"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-menus.php:68
+#: includes/admin/class-wpdl-admin-meta-boxes.php:64
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-meta-boxes.php:62
+msgid "User-submitted Ticket Message"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-notices.php:42
+#, php-format
+msgid "<a href=\"%s\">%s support ticket</a> is awaiting a reply."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-notices.php:44
+#, php-format
+msgid "<a href=\"%s\">%s support tickets</a> are awaiting a reply."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:74
+#: includes/admin/class-wpdl-admin-post-types.php:77
+#: includes/admin/class-wpdl-admin-post-types.php:79
+msgid "Support ticket updated."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:75
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:76
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:78
+msgid "Revision restored."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:80
+msgid "Support ticket saved."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:81
+msgid "Support ticket submitted."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:83
+#, php-format
+msgid "Support ticket scheduled for: %s."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:84
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:86
+msgid "Support ticket draft updated."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:87
+msgid "Support ticket updated and sent."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:100
+#, php-format
+msgid "%s support ticket updated."
+msgid_plural "%s support tickets updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:101
+#, php-format
+msgid "%s support ticket not updated, somebody is editing it."
+msgid_plural "%s support tickets not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:102
+#, php-format
+msgid "%s support ticket permanently deleted."
+msgid_plural "%s support tickets permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:103
+#, php-format
+msgid "%s support ticket moved to the Trash."
+msgid_plural "%s support tickets moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:104
+#, php-format
+msgid "%s support ticket restored from the Trash."
+msgid_plural "%s support tickets restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:123
+msgid "Enter support ticket subject"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-post-types.php:135
+msgid "My Tickets Page"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:61
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:526
+msgid ""
+"The settings of this image size have been disabled because its values are "
+"being overwritten by a filter."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:535
+msgid "Hard crop?"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:553
+#: includes/admin/class-wpdl-admin-settings.php:560
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:562
+msgid "No pages were found."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:579
+msgid "Day(s)"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:580
+msgid "Week(s)"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:581
+msgid "Month(s)"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-settings.php:582
+msgid "Year(s)"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin-taxonomies.php:37
+#: includes/admin/class-wpdl-admin-taxonomies.php:59
+msgid "Color (optional)"
+msgstr ""
+
+#: includes/admin/class-wpdl-admin.php:53
+msgid "Security check."
+msgstr ""
+
+#: includes/admin/class-wpdl-admin.php:60
+msgid "HTML email preview"
+msgstr ""
+
+#: includes/admin/wpdl-admin-functions.php:70
+#: includes/admin/wpdl-admin-functions.php:88
+#: includes/admin/wpdl-admin-functions.php:106
+msgid "Trying to cheat or something?"
+msgstr ""
+
+#: includes/admin/wpdl-admin-functions.php:70
+#: includes/admin/wpdl-admin-functions.php:88
+#: includes/admin/wpdl-admin-functions.php:106
+msgid "Error"
+msgstr ""
+
+#: includes/admin/wpdl-admin-functions.php:74
+#: includes/admin/wpdl-admin-functions.php:92
+#: includes/admin/wpdl-admin-functions.php:110
+msgid "You do not have permission to manage support tickets"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:96
+msgid "All"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:142
+#, php-format
+msgid "ID: %s"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:143
+msgid "View"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:146
+msgid "Unresolve"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:148
+msgid "Resolve"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:153
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:200
+#: templates/ticket-reply.php:34
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:179
+#: templates/my-tickets.php:24
+msgid "ID"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:180
+msgid "Ticket"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:181
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:182
+msgid "Assigned to"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:183
+#: includes/admin/meta-boxes/views/html-ticket-settings.php:45
+#: templates/my-tickets.php:26 templates/ticket.php:40
+msgid "Status"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:184
+msgid "Type"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:185
+#: includes/admin/meta-boxes/views/html-ticket-settings.php:32
+#: templates/add-ticket.php:76 templates/my-tickets.php:28
+#: templates/ticket.php:44
+msgid "Priority"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:187
+#: templates/ticket.php:55
+msgid "Last modified"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:197
+msgid "Mark as resolved"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:198
+msgid "Set as new"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:199
+msgid "Set as pending"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:252
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:255
+msgid "No customer"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:296
+msgid "No types"
+msgstr ""
+
+#: includes/admin/list-tables/class-wpdl-admin-list-table-ticket.php:327
+msgid "No departments"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-ticket-editor.php:18
+#: templates/ticket-add-reply.php:23
+msgid "Upload attachments"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-ticket-settings.php:13
+msgid "Assign to"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-ticket-settings.php:20
+msgid "Me"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-ticket-settings.php:58
+msgid "Update"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:24
+msgid "Emails"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:35
+msgid "Email options"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:106
+msgid "Email notifications"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:107
+msgid ""
+"Email notifications sent by the plugin are listed below. Click on an email "
+"to configure it."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:125
+msgid "Email sender options"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:132
+msgid "\"From\" name"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:133
+msgid "How the sender name appears in outgoing emails."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:142
+msgid "\"From\" address"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:143
+msgid "How the sender email appears in outgoing emails."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:160
+msgid "Email template"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:162
+#, php-format
+msgid ""
+"This section lets you customize the Support Ticket emails. <a href=\"%s\" "
+"target=\"_blank\">Click here to preview your email template</a>."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:167
+msgid "Header image"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:168
+msgid ""
+"URL to an image you want to show in the email header. Upload images using "
+"the media uploader (Admin > Media)."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:171
+#: includes/admin/settings/class-wpdl-settings-emails.php:182
+#: includes/admin/settings/class-wpdl-settings-emails.php:194
+msgid "N/A"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:178
+msgid "Footer text (HTML)"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:179
+msgid "The text to appear in the footer of Support Ticket emails."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:179
+#: includes/admin/settings/class-wpdl-settings-emails.php:191
+#: includes/emails/class-wpdl-email-new-ticket.php:111
+#: includes/emails/class-wpdl-email.php:505
+#: includes/emails/class-wpdl-email.php:513
+#, php-format
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:190
+msgid "Footer text (Plain)"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:191
+msgid "The text to appear in the footer of Support Tickets plain text emails."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:196
+#, php-format
+msgid "Best regards,%s%s"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:202
+msgid "Base color"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:203
+#, php-format
+msgid "The base color for Support Tickets email templates. Default %s."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:213
+msgid "Background color"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:214
+#, php-format
+msgid "The background color for Support Tickets email templates. Default %s."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:224
+msgid "Body background color"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:225
+#, php-format
+msgid "The main body background color. Default %s."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:235
+msgid "Body text color"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:236
+#, php-format
+msgid "The main body text color. Default %s."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:275
+msgid "Content type"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:276
+#: includes/emails/class-wpdl-email-new-ticket.php:120
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:302
+msgid "User"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:309
+msgid "Manually sent"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:311
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-emails.php:313
+msgid "Disabled"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:35
+msgid "General options"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:94
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:101
+msgid "My Tickets page"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:102
+#, php-format
+msgid "Page contents: [%s]"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:111
+msgid "Support Roles"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:112
+msgid ""
+"Users with specified roles will have access to support tickets as operators."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:113
+msgid "Select user roles..."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:123
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:124
+msgid "Check this box to enable automatic integration with WooCommerce."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:128
+msgid "This will add an extra tab in front-end Woocommerce account page."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:132
+msgid "Allow Attachments"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:133
+msgid "Check this box to allow users to attach files to support tickets."
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:140
+msgid "Remove all data on uninstall?"
+msgstr ""
+
+#: includes/admin/settings/class-wpdl-settings-general.php:141
+msgid "Check this box to remove all plugin data when it is uninstalled."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:37
+msgid "Save changes"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:20
+msgid "New ticket notification"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:21
+msgid ""
+"New ticket notification emails are sent to chosen recipient(s) when a user "
+"creates a support ticket."
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:43
+msgid "[New Ticket #{ticket_id}] {subject}"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:50
+msgid "New support ticket"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:114
+#: includes/emails/class-wpdl-email.php:496
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:116
+#: includes/emails/class-wpdl-email.php:498
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:123
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:129
+#: includes/emails/class-wpdl-email.php:502 templates/ticket.php:29
+msgid "Subject"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:137
+#: includes/emails/class-wpdl-email.php:510
+msgid "Email heading"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:145
+#: includes/emails/class-wpdl-email.php:518
+msgid "Email type"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-new-ticket.php:147
+#: includes/emails/class-wpdl-email.php:520
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/emails/class-wpdl-email-operator-new-reply.php:23
+msgid "New ticket reply (operator)"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-operator-new-reply.php:24
+msgid ""
+"Operator \"new ticket reply\" emails are sent when a customer replies to a "
+"support ticket."
+msgstr ""
+
+#: includes/emails/class-wpdl-email-operator-new-reply.php:44
+#: includes/emails/class-wpdl-email-user-new-reply.php:44
+msgid "[RE: Ticket #{ticket_id}] {subject}"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-user-new-reply.php:23
+msgid "New ticket reply"
+msgstr ""
+
+#: includes/emails/class-wpdl-email-user-new-reply.php:24
+msgid ""
+"User \"new ticket reply\" emails are sent when a support operator replies to "
+"a customer ticket."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:533
+msgid "Plain text"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:536
+msgid "HTML"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:537
+msgid "Multipart"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:595
+msgid "Could not write to template file."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:638
+msgid "Template file copied to theme."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:666
+msgid "Template file deleted from theme."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:685
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:689
+msgid "You don&#8217;t have permission to do this."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:709
+msgid "Return to emails"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:738
+msgid "HTML template"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:739
+msgid "Plain text template"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:764
+msgid "Delete template file"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:770
+#, php-format
+msgid ""
+"This template has been overridden by your theme and can be found in: %s."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:803
+msgid "Copy file to theme"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:809
+#, php-format
+msgid ""
+"To override and edit this email template copy %1$s to your theme folder: "
+"%2$s."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:817
+msgid "File was not found."
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:841
+msgid "View template"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:842
+msgid "Hide template"
+msgstr ""
+
+#: includes/emails/class-wpdl-email.php:853
+msgid "Are you sure you want to delete this template file?"
+msgstr ""
+
+#: includes/libraries/wp-background-process.php:425
+#, php-format
+msgid "Every %d Minutes"
+msgstr ""
+
+#: templates/add-ticket.php:19
+msgid "Submit a support ticket"
+msgstr ""
+
+#: templates/add-ticket.php:22
+msgid "My tickets"
+msgstr ""
+
+#: templates/add-ticket.php:35 templates/my-tickets.php:25
+msgid "Title"
+msgstr ""
+
+#: templates/add-ticket.php:48
+msgid "&ndash; Select a department &ndash;"
+msgstr ""
+
+#: templates/add-ticket.php:64
+msgid "&ndash; Select a ticket type &ndash;"
+msgstr ""
+
+#: templates/add-ticket.php:89
+msgid "Description"
+msgstr ""
+
+#: templates/add-ticket.php:99
+msgid "Attachments"
+msgstr ""
+
+#: templates/add-ticket.php:111
+msgid "Submit"
+msgstr ""
+
+#: templates/my-tickets.php:16 templates/ticket.php:21
+msgid "Add a new ticket"
+msgstr ""
+
+#: templates/my-tickets.php:29 templates/ticket.php:51
+msgid "Created on"
+msgstr ""
+
+#: templates/my-tickets.php:46
+msgid "No support tickets do display"
+msgstr ""
+
+#: templates/ticket-add-reply.php:32
+msgid "Mark this ticket as resolved"
+msgstr ""
+
+#: templates/ticket-add-reply.php:35
+msgid "Priority:"
+msgstr ""
+
+#: templates/ticket-add-reply.php:46
+msgid "Add reply"
+msgstr ""
+
+#: templates/ticket-add-reply.php:48
+msgid "Add as a note"
+msgstr ""
+
+#: templates/ticket-attachments.php:16
+#: templates/ticket-reply-attachments.php:16
+#, php-format
+msgid "%s Attachment(s)"
+msgstr ""
+
+#: templates/ticket-empty.php:12
+msgid "Invalid ticket ID or no customer data."
+msgstr ""
+
+#: templates/ticket-message.php:18
+#, php-format
+msgid "%s <span>started the conversation</span>"
+msgstr ""
+
+#: templates/ticket-reply.php:22
+#, php-format
+msgid "%s <span>left a note</span>"
+msgstr ""
+
+#: templates/ticket-reply.php:24
+#, php-format
+msgid "%s <span>added a reply</span>"
+msgstr ""
+
+#: templates/emails/admin-new-ticket.php:15
+#: templates/emails/plain/admin-new-ticket.php:14
+msgid "Subject:"
+msgstr ""
+
+#: templates/emails/admin-new-ticket.php:20
+#: templates/emails/plain/admin-new-ticket.php:17
+msgid "Message:"
+msgstr ""
+
+#: templates/emails/admin-new-ticket.php:24
+#: templates/emails/operator-new-reply.php:19
+#: templates/emails/user-new-reply.php:19
+msgid "View support ticket"
+msgstr ""
+
+#: templates/emails/operator-new-reply.php:15
+#: templates/emails/plain/operator-new-reply.php:14
+msgid "Customer&apos;s Response:"
+msgstr ""
+
+#: templates/emails/user-new-reply.php:15
+#: templates/emails/plain/user-new-reply.php:14
+msgid "Support Response:"
+msgstr ""
+
+#: templates/emails/plain/admin-new-ticket.php:22
+#: templates/emails/plain/operator-new-reply.php:19
+#: templates/emails/plain/user-new-reply.php:19
+msgid "View or reply to this ticket:"
+msgstr ""
+
+#: templates/notices/error.php:19
+msgid "Please correct the following errors:"
+msgstr ""
